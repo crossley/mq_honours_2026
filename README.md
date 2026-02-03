@@ -1,12 +1,11 @@
-# mq_honours_2025
+# mq_honours_2026
 
-This repo holds code for a variety of 2025 honours projects
-at Macquarie University.
-
-If you are one of the honours students working on a project,
-you will  fork this repo, push your data to your fork, then
-submit a pull request to merge your results into the main
-repo managed by your supervisor.
+This repo holds code for a variety of 2026 honours projects
+at Macquarie University. If you are one of the honours
+students working on a project, you will  fork this repo,
+push your data to your fork, then submit a pull request to
+merge your results into the main repo managed by your
+supervisor.
 
 ---
 
